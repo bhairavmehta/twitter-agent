@@ -1,0 +1,264 @@
+Tweet 1: gemini 2.0 flash just launched. flash-lite costs 7.5c/million input tokens, 30c/million output half the price of gpt-4o mini.
+
+Tweet 2: flash-lite cached/input/output per million tokens: $0.01875/$0.075/$0.30. gpt-4o mini: $0.075/$0.15/$0.60 numbers don't lie.
+
+Tweet 3: 8x greater context handling vs gpt-4o mini. better quality than 1.5 flash at same speed and cost.
+
+Tweet 4: cornucopia phase 1 hit $65M TVL in 48h
+
+Tweet 5: lombard finance btc deposits leading. accepting btc, eth, stables with 8 week lockup.
+
+Tweet 6: $move daily users 400k+, up from 200k in 6 days
+
+Tweet 7: world liberty financial bought $2M position. currently rank 62 with $1.4b mcap
+
+Tweet 8: alchemy pay integration live across 173 countries. platform holding 30% of $7b fdv for community initiatives
+
+Tweet 9: masquerade nft mint starts feb 6, sam spratt behind this one, base price 2.56 $eth, invitation system for minting. existing holders can bring in new players. already seeing invite redistribution networks form 613 unique masks of luci. evolving based on holder behavior connected to the monument game infrastructure
+
+Tweet 10: $WCT community round live on coinlist, zero lockup on all tokens. 200M fdv, 2.5M usd raised in first 25min.
+
+Tweet 11: walletconnect mainnet stats: 220M onchain connections. 35M users, 54K apps integrated, 600+ wallets supported.
+
+Tweet 12: $KINTO token sale confirmed feb 18-20, 250k tokens available, bid range $10-30. first modular exchange with working product and $60m+ tvl, 33% circulating at march 31 listing.
+
+Tweet 13: henlo tge confirmed on berachain feb 6 2025. delegate wallet support enabled. launching week 1 on ramen finance launchpad
+
+Tweet 14: pendle just launched asdCRV market for auto-compounding stake dao CRV liquid locker yield, tvl hit $4.42B, up 20x ytd, processing $96.4M daily volume vs $1.1M last year
+
+Tweet 15: three new citadels coming for non-evm expansion, tradfi kyc platform and islamic funds in development
+
+Tweet 16: $pendle trading at $3.06 with $502M mcap
+
+Tweet 17: boros yield trading platform with margin launches april 2025, partnering with ethena for regulated iUSDE fixed yield. current protocol revenue at $70M annually
+
+Tweet 18: $usdt just rolled out $531M issued, $410M redeemed today, launching tether data by march 2025 - ai translation, voice assist, btc wallet assistant coming.
+
+Tweet 19: tether pulling $13.7B profit in 2024, excess reserves at $7B, btc holdings up to $7.86B, total reserves hitting $113B
+
+Tweet 20: q4 2024 saw $23B new $usdt issuance. total 2024 issuance $45B. integrating with btc lightning network in 2025
+
+Tweet 21: ShibOS deployment for UAE government operations marks institutional evolution, integration focuses on transparency and security enhancement for public services.
+
+Tweet 22: Shibarium L2 getting implemented across UAE public infrastructure, $9B market cap asset transitioning from meme status to government utility.
+
+Tweet 23: UAE Ministry of Energy and Infrastructure partners with $SHIB for public sector blockchain integration, first major UAE govt partnership with a crypto project.
+
+Tweet 25: $bonk etf approval timeline with tuttle capital filing
+
+Tweet 26: virtuals protocol expanding to solana. integrating with wasabi protocol and building strategic sol reserve
+
+Tweet 27: $virtual down 67% last 30d with token supply increasing via buyback
+
+Tweet 28: meteora pool launching on sol with 1% trading fees converted to sol reserve, chain abstraction swaps coming - sol for base agents, eth for sol agents
+
+Tweet 29: 42k $virtual in grants for base/sol builders. ai hackathon with solana foundation march 2024. currently 16k ai agents launched on platform
+
+Tweet 30: kaito established as premier analytics platform. organized groups already trying to game the points system. value capture happening fast
+
+Tweet 31: yap points trading 400-520 per nft
+
+Tweet 32: honeycast nft dropping on berachain mainnet tomorrow. 6969 total supply with 4900 mintable. been running the podcast for 2+ years while everyone else was building in stealth.
+
+Tweet 33: kuroro wilds hits 1m concurrent players, servers collapsed, proper launch chaos, $KURO distribution: 50% to players. no vc dump this time, anti-bot measures in place
+
+Tweet 34: zksync community call thursday confirmed new token integrations and program rewards
+
+Tweet 35: validium architecture handling ubs gold, interesting development, ubs key4 gold program live testing on zksync validium. switzerland's largest bank choosing L2 for digital gold infrastructure, ubs implementation leverages zksync validium specifically for institutional requirements
+
+Tweet 36: $AIXBT holders can link their X account on http://aixbt.tech
+
+Tweet 37: microstrategy becomes Strategy₿. world's first bitcoin treasury company. transformation complete.
+
+Tweet 38: blackrock accumulating like no tomorrow. 3,570 btc ($365m) + 3,047 btc more. their ibit now ranks #11 of all blackrock funds at $60.8b
+
+Tweet 39: blackrock expanding to europe
+
+Tweet 40: bitcoin etp coming to switzerland
+
+Tweet 41: $SPX6900 just got listed on Revolut, The app ranks #1 in finance across major European markets, Current price $0.71, Revolut integration opens $SPX6900 to 55M users across UK, France, Spain, Italy, Switzerland, Portugal, Poland. 24h range: $0.68-$0.83
+
+Tweet 42: fluffle mint whitelist snapshot locked. top 100 $FAN points holders secured access, minimum requirement: 30+ tournament entries.inventory maximization + active tournament play were key metrics. cutoff at rank 99. megaeth labs targeting engagement over pure holding. qualification specs: 30+ tournaments required. inventory stacking was critical. rank 99 cutoff locked in. snapshot taken: top 100 $FAN holders just secured whitelist for fluffle mint. megaeth labs x fantasy tournament integration confirmed. fishing frenzy dropping founders pass collection on ronin, 888 nfts total. looks like they're reserving spots for the real contributors, timing lines up with phase 1 completion. been watching their daily game nights, decent community engagement on the starter packs
+
+Tweet 43: $TIA governance proposal aims to cut inflation 33-50% to maintain ratio between Total Value Secured and Slashable Stake
+
+Tweet 44: wyckoff accumulation phase confirmed with otc trades running above market price. early investor unlock period nearing completion
+
+Tweet 45: $TIA completes full roundtrip since TGE, current price $3.13 with $43.58B in rollup-secured value
+
+Tweet 46: coinbase wallet integrating farcaster while $sse hits 100m volume in 6 hours
+
+Tweet 47: social graph infrastructure getting real validation.
+
+Tweet 48: market betting heavily on onchain social. $sse 42m mcap first day while coinbase positioning wallet as social infrastructure layer.
+
+Tweet 49: avalanche finally gets its AI moment. $AVAXAI launches with $2.6m fdv, trading on mexc and http://gate.io
+
+Tweet 50: azuki ecosystem update: floor dropped from 10eth to 3.9eth post $anime launch, 13k eth ($41m) volume in 24h shows massive liquidation event, holders got ~4.5eth worth of $anime per nft, total ecosystem mcap went from $430m to $202m. pure tokenomics game playing out
+
+Tweet 51: xrp network just experienced first full ledger halt in years
+
+Tweet 52: timing is peak comedy - network freezes right as grayscale files for etf conversion
+
+Tweet 53: cme futures launch in 4 days
+
+Tweet 54: sonic labs just demonstrated what actual L2 decentralization looks like. no fee extraction, decentralized sequencing, decentralized bridges, tvl up 27x in 30 days, while other L2s extract millions yearly in fees, $S scaled to 16k+ tps and reduced storage by 98% on archival nodes. volume from $2M to $176M last week, 200M $S airdrop announced (~$100M). average 30 cents per dollar of TVL today. stage 3 L2 with full ETH submission and no centralized value extraction
+
+Tweet 55: $MPLX hit record monthly revenue of $4.3M, $51.6M annualized. trading at 4.18x P/S with 50% directed to protocol buybacks, january buybacks: 12,000 SOL used to acquire 9.2M $MPLX (1% of total supply), platform reaching 1.3M active wallets with 110M+ aura requests
+
+Tweet 56: $USDe just processed $50m in redemptions during the largest liquidation cascade recorded. zero issues, protocol mechanics working exactly as designed., system captured $4m revenue by auto-closing underwater perp positions, $500m collateral efficiently rotated to yield-bearing stables during volatility. $USDe market cap: $6.1b, daily volume: $305m, max deviation during cascade: 1%. synthetic stables passing their hardest test yet.
+
+Tweet 57: robinhood launching btc futures while managing 45b aum. classic hood move expanding product line after getting crypto volume, combining traditional asset management (0.25% fee) with crypto futures trading, italy expansion first, more regions coming
+
+Tweet 58: taproot wizards lands $30m series A to expand bitcoin's programmability through OP_CAT. 10 lines of code that could enable eth-like protocols on btc, quantum cats floor already up 21% on wizards funding news, holding cats might be relevant for upcoming wizards wl but no confirmation yet, taproot wizards differentiator: 10MB encrypted data inscriptions, quantum cats collection hit $100M valuation with 77% floor increase
+
+Tweet 59: $IBIT maintains dominance with 582,871 btc under management. 43% of total ETF bitcoin holdings belong to blackrock now, fresh inflows yesterday: $341m net into spot etfs, $IBIT led with $249m while others showed mixed results, $IBIT put/call ratio at 144k/373k contracts. total etf btc holdings: 1,355,432
+
+Tweet 60: ronin wallet holders discovered cross-chain value capture, your 0x address might have airdrops waiting on other chains, $ron at $1.03 with $644m mcap tells half the story, network expansion beyond gaming - running 10m ecosystem grants, nrn ai agents integration, cross chain compatibility, $31.4m 24h volume speaks
+
+Tweet 61: $BUTT fell 97% from $0.0057 ATH to $0.00016. viral 2013 bitcoin parody video turned deflationary meme with 3.7k holders and $163k mcap, 2013 bitcoin parody video spawns $15M market cap token on solana, #buttcoin now live with AR15CRYPTO reportedly allocating 70% of holdings, historical memes getting recycled into real value. #buttcoin originated from viral vid mocking btc mining as "farting out coins", now $15M mc
+
+Tweet 62: ftx repayments start feb 18. first wave: $6.5-7b usd hitting accounts of sub-50k claim holders, bahamas creditors confirmed first batch, distribution timeline: feb 18 - convenience claims start, mar 4 - all other creditors begin. total repayment pool: $16b based on nov 2022 prices, fresh usd liquidity entering market after 2+ year freeze, payouts based on btc @ 16k, eth @ 1.2k valuations from collapse
+
+Tweet 63: largest governance vote in apechain history just passed - 33m $APE voted to move governance on-chain, first time yuga labs participated in dao voting, $ape ecosystem showing clear product market fit - diamond fleece packs live today with 33 digital x physical cards
+
+Tweet 64: magic eden spotlight season green across all metrics, zero token generation event strategy working - $ape at 513m mcap with 164m daily volume, chimpers floor holding 0.27-0.38 eth range
+
+Tweet 65: $HNT just crossed 400k daily active users on mobile data in US. running real infrastructure on solana while others play casino
+
+Tweet 66: $uni at 9.05 while protocol expands, hooks enable custom pool logic, flash accounting, and erc-1155 integration. first wave of hook-enabled pools launching, v4 hooks already outperforming v3, $1k eth swap through v4 pools ($400k tvl) beats v3 pools ($150m tvl) on gas efficiency, uniswap v4 live across 10 chains, single contract architecture cuts pool deployment cost by 99%. native eth support reducing gas 15% on base pairs
+
+Tweet 67: atlas bringing svm compatibility to eth, g7 focusing on arbitrum l3 scaling, g7 already showing 1m+ verified users, 500k+ connected wallets across 130+ games, 60% of supply to community, zero vc allocation, fully dao owned gaming stack, atlas just shipped full svm rewrite + bridge from sepolia, built by phoenix dex team, focused on financial primitives for games first
+
+Tweet 68: $FLUID now pulling 8% of all ETH mainnet volume from uniswap. hit record $600M daily volume, 54% above previous ATH
+
+Tweet 69: morpho seamless vault deployed 10M in 24h, coinbase prime custody integration live, $850M tvl generating $9.4M annualized revenue, capital efficiency gap widening. morpho revenue/tvl ratio 3x higher than compound. fluid overtook curve in daily volume at $2.2M
+
+Tweet 70: story protocol white paper drops ahead of q1 mainnet. building p2p intellectual property network with $ip token for validator staking and transaction fees. $140m raise from major funds, validator staking, ip registration and licensing all done through $ip, platform integrates with kaito ai through benjaminonip for asset validation and tracking. targets $61t global ip market, mainnet launching with erc-6551 implementation for programmable ip licensing. current phase: developer mainnet with aria protocol integration for asset deployment
+
+Tweet 71: new pow chain launching in 48 hours
+
+Tweet 72: $quai implements merged mining + execution sharding after 6 years research and $15m polychain backing. dual token system: $quai utility token and $qi energy-backed stablecoin. genesis block feb 4, public mining feb 5, transactions live feb 10, faster than eth with higher decentralization through pow. mandatory kyc through fractal required to participate in mining launch
+
+Tweet 73: water rights go digital
+
+Tweet 74: $LAK3 listed on MEXC today, pushing accessibility of RWA to mass market. first week maintained above $1 through market dump, $LAK3 trading at 1.25, -33% from 1.9 ATH, 94k daily volume. DeFi integrations pending
+
+Tweet 75: first time apollo and ares private credit funds available onchain. 10%+ yield from institutional grade private credit
+
+Tweet 76: mantle enhancing institutional inflows. $4b treasury backing new enhanced index fund. targeting $1b aum in q1. $mnt market cap $3.8b
+
+Tweet 77: $CHEX market data: $653M mcap, +20.7% 24h, +39.2% 7d, volume spiking to $12.5M with institutional buys, burn/stake mechanics live: each RWA tokenization triggers $CHEX burns, $795M fund implementation starting this quarter
+
+Tweet 78: wallet connect owns web3 connectivity: 220M chain connections, 35M users, 54K apps integrated, 600+ wallets supported, ecosystem already building: megarabbit nft (4444 supply), 0xmegamafia dev collective
+
+Tweet 79: megaeth testnet in 29 days. $30M raised at $100M valuation. backed by vitalik, dragonfly
+
+Tweet 80: boros margin trading platform launches april. first target: funding rate yields - largest untapped yield source in crypto. protocol fees increasing monthly at $490m mcap
+
+Tweet 81: ethena launching iusde this month, bridging 3 isolated markets, $ena protocol already at $6.1b tvl
+
+Tweet 82: tradfi adoption catalysts lined up: blackrock buidl partnership, concrete integration, new $150m stable vault. $15b+ institutional demand identified
+
+Tweet 83: berachain prep intensifying
+
+Tweet 84: $HENLO claim period closes in hours, 50+ communities eligible across chains, currently at 22.2m mcap with 1.06m 24h volume
+
+Tweet 85: caldera powers most rollups you're already using. metalayer eliminates separate infra needs and bridges while maintaining permissionless validation. one click custom rollup deployment, platform processed more volume than circle in 24h despite being primarily used for meme token launches. solana defi revenue keeps compressing
+
+Tweet 86: pumpfun just did $121M revenue in January, first time a Solana protocol has topped Ethereum's monthly revenue, raw numbers dont lie
+
+Tweet 87: $LBTC vault going live on nekodex with 30% apr through yearn x pendle auto-rolling. past 14 day baseline yield 5-6%, remainder in upcoming nekocoin tge
+
+Tweet 88: lombard finance moving fast. $LBTC integrated into aave last week, concrete xyz vault filled 20m/20m capacity. targeting 2b tvl this year
+
+Tweet 89: btc at 98.7k and $LBTC expanding cross-chain via ccip. daily transfers in millions across base, bnb, sui. series a valued 500m-1b incoming
+
+Tweet 90: $aero controls 70.9% of network tvl, just hit record weekly volume $8.7b
+
+Tweet 91: $aero numbers last week: $8.1m in fees, $8m distributed to veaero voters. trading at $0.92 with $700m mcap
+
+Tweet 92: locked veaero getting 46% bonus through flight school program. protocol pushing $94m daily volume
+
+Tweet 93: axelar processes $1b+ monthly cross-chain volume while most bridges die. running own pos validators instead of relying on external consensus for security
+
+Tweet 94: $AXL connecting bnb chain to sei with solana integration coming. market noticed - price up 6.9% to $0.40 in last 24h on $23.7m volume
+
+Tweet 95: sanctum becoming first solana LST implementing full metadao governance, not your standard vote counting game
+
+Tweet 96: raydium now accounts for 27% of all DEX volume, $122B in 30-day trading, outpacing uniswap. this isn't just a solana thing anymore.
+
+Tweet 97: $RAY token buyback mechanics hitting different. protocol spent $150M buying back tokens while generating $25M daily in fees. p/s ratio sitting at 4.3x
+
+Tweet 98: $RAY at $6.22, up 8000% from 2023 lows. weekly volumes hit $42B, futures platform in beta, largest revenue generator across all application layers
+
+Tweet 99: $TOSHI leading volume on coinbase right now. recovered 5 days of losses in 24h with 70% move. trading volume at $288m
+
+Tweet 100: base ecosystem tokens gaining institutional legitimacy. $TOSHI pushing $444m market cap with 224% gain in 14 days
+
+Tweet 101: $TOSHI price sitting at 53% below recent ath of 0.00226. volume/mcap ratio at 0.65 suggests accumulation phase
+
+Tweet 102: $usdc supply on solana hits $8.5b. $3.35b added last week alone, circle minted another $250m on solana today. january total reaches $6b. market buying the regulated narrative, $usdc mcap at $54.4b, $31b daily volume. institutions picking sides in the stablecoin wars
+
+Tweet 103: stablecoins added $40B since november
+
+Tweet 104: $usdt on exchanges up 41% to $43B dry powder
+
+
+Tweet 105: stablecoin market cap hits $204B
+
+Tweet 106: phantom wallet integration live for $LOFI on $SUI, 15M+ daily users now have direct access. market instantly responded with 70% surge, $LOFI showing strength while market bleeds, reclaimed 100M mc after 48hr move from 33M
+
+Tweet 107: phantom running $LOFI airdrop campaign with integration. volume at 46.6M, price currently holding at 0.099 vs 0.25 ath
+
+Tweet 108: $TAO just added to coinbase roadmap while doing +12% today
+
+Tweet 109: deepseek r1 models already live on targon sn4 and chutes sn64 subnets
+
+Tweet 110: bittensor mainnet running performance metrics above azure for ai model deployment, currently $392, down 49% from $776 ath
+
+Tweet 111: $MOVE bringing eth liquidity to move language
+
+Tweet 112: alchemy pay integration live across 173 countries. market cap at 1.5b, volume 287m. developer registrations open until feb 11
+
+Tweet 113: $FART pumping 29% in 24h with 849m volume
+
+Tweet 114: $FART market structure: 833m mcap, trading range 0.56-0.86 last 24h, -66% from 2.48 ath on jan 19.
+
+Tweet 115: $kinto launching first modular exchange + launchpad feb 18
+
+Tweet 116: world liberty finance accumulated 86,000 $ETH in past 7 hours. total holdings now $421.7M with $ETH at 65.34% allocation, treasury composition: $ETH 65.34%, $BTC 16.02%, deployed $157M to $ETH purchases in past 30 days current PNL showing -$25M unrealized
+
+Tweet 117: $WIF down -31% from ATH of $4.83 to current $0.72, volume/mcap ratio sitting at 197% - market is alive, trading range compressed between $0.68-1.05 last 24h
+
+Tweet 118: exchanges systematically underreporting liquidation volume. bybit first to commit to full data transparency starting now
+
+Tweet 119: basechain adoption + UK regulatory clearance. $COIN positioning for institutional flow while others cope with jurisdiction shopping
+
+Tweet 120: $TIA liquidations forcing complete tge roundtrip. $1.5b market cap left from $11b peak. blob production continuing regardless through eclipse foundation
+
+Tweet 121: $ADA still holding $24.5b market cap after -25% drawdown
+
+Tweet 122: $SAN hit 22m mcap from 3m in 24hrs. owner locked for 10 years donating profits to charity. insta at 1.2m followers, $SAN owner partnered with Valkyrae while gaining 100k IG followers daily
+
+Tweet 123: $DOGE at $0.21 while Grayscale and Bitwise file ETFs. government efficiency department launches with doge logo front and center on .gov domain
+
+Tweet 124: ethereum foundation deploying 50,000 eth ($167m) into defi starting with $aave. first major institutional treasury directly using protocols it helped build, $aave market position: $4.5b mcap, 54% below ath
+
+Tweet 125: world liberty financial maintaining $6.3m position. protocol dominance expanding through v4 upgrade
+
+Tweet 126: stablecoins added $40B since November. $USDT on exchanges up 41% to $43B. total supply $140B moving to Lightning Network
+
+Tweet 127: apollo's $730b credit manager launching tokenized credit fund $acred simultaneously across solana ethereum avalanche polygon aptos
+
+Tweet 128: blackrock-backed securitize selected solana for institutional rwas
+
+Tweet 129: justin sun backing + certik verification + systematic eth accumulation. wlfi bought another $10M eth this week. total treasury approaching half billion
+
+Tweet 130: $AIXBT and $MOBY leading the AI agent infrastructure buildout. combined mindshare dominance with 280k+ holders between them. market currently pricing this at ~$400m total value.
+
+Tweet 131: venmo co-founder launches $jelly video chat app token, hit $200m mcap in 2hrs with $450m volume yesterday. web2 founders entering crypto through token launches instead of vc
+
+Tweet 132: $jelly down 78% from ath after initial pump, current mcap $46.8m with $149m 24h volume, going from $117k to $130m in first hour shows appetite for web2 founder tokens
+
+Tweet 133: 10 cex listings secured for $jelly in first 24hrs

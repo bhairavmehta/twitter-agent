@@ -1,0 +1,190 @@
+# 1. Error Handling and Rate Limiting
+class RateLimitedClient:
+    def __init__(self, tweepy_client):
+        self.client = tweepy_client
+        self.rate_limits = {}
+        self.backoff_time = 60  # Initial backoff of 60 seconds
+
+    def execute_with_retry(self, operation, *args, **kwargs):
+        while True:
+            try:
+                return operation(*args, **kwargs)
+            except tweepy.TooManyRequests as e:
+                wait_time = int(e.response.headers.get('x-rate-limit-reset', self.backoff_time))
+                logging.warning(f"Rate limit hit. Waiting {wait_time} seconds.")
+                time.sleep(wait_time)
+                self.backoff_time *= 2  # Exponential backoff
+            except tweepy.TweepyException as e:
+                logging.error(f"Twitter API error: {e}")
+                raise
+
+
+# 2. Enhanced Content Generator with Template Management
+class EnhancedContentGenerator(ContentGenerator):
+    def __init__(self, personality, llm=None, openai_api_key=None):
+        super().__init__(personality, llm, openai_api_key)
+        self.template_cache = {}
+
+    def load_templates(self, template_dir: str):
+        """Load templates from a directory"""
+        for template_file in Path(template_dir).glob('*.txt'):
+            with open(template_file, 'r') as f:
+                self.template_cache[template_file.stem] = f.read()
+
+    def generate_post(self, current_events, template_name=None):
+        if template_name and template_name in self.template_cache:
+            template = self.template_cache[template_name]
+            prompt = template.format(
+                current_events=current_events,
+                personality=self.personality.config.dict()
+            )
+        else:
+            prompt = super().generate_post(current_events)
+
+        return self._format_post(self.llm(prompt))
+
+
+# 3. Advanced Sentiment Analysis
+class SentimentAnalyzer:
+    def __init__(self):
+        self.nlp = spacy.load('en_core_web_sm')
+
+    def analyze_sentiment(self, text: str) -> dict:
+        doc = self.nlp(text)
+        # Basic sentiment analysis
+        return {
+            'sentiment': doc.sentiment,
+            'entities': [(ent.text, ent.label_) for ent in doc.ents],
+            'key_phrases': [chunk.text for chunk in doc.noun_chunks]
+        }
+
+
+# 4. Improved Schedule Manager with Persistence
+class PersistentScheduleManager(ScheduleManager):
+    def __init__(self, storage_path: str):
+        super().__init__()
+        self.storage_path = Path(storage_path)
+        self.load_schedules()
+
+    def load_schedules(self):
+        if self.storage_path.exists():
+            with open(self.storage_path, 'r') as f:
+                data = json.load(f)
+                self.pending_schedules = [Schedule(**s) for s in data['pending']]
+                self.completed_schedules = [Schedule(**s) for s in data['completed']]
+
+    def save_schedules(self):
+        with open(self.storage_path, 'w') as f:
+            json.dump({
+                'pending': [s.dict() for s in self.pending_schedules],
+                'completed': [s.dict() for s in self.completed_schedules]
+            }, f)
+
+    def add_schedule(self, schedule_entry: Schedule):
+        super().add_schedule(schedule_entry)
+        self.save_schedules()
+
+
+# 5. Enhanced Tweet Monitor with Analytics
+class EnhancedTweetEngager(TweetEngager):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.sentiment_analyzer = SentimentAnalyzer()
+        self.engagement_metrics = defaultdict(int)
+
+    def analyze_engagement_opportunity(self, tweet: tweepy.Tweet) -> float:
+        sentiment = self.sentiment_analyzer.analyze_sentiment(tweet.text)
+        metrics = {
+            'follower_count': tweet.author.followers_count,
+            'sentiment': sentiment['sentiment'],
+            'relevance': self._calculate_relevance(tweet.text)
+        }
+        return sum(metrics.values()) / len(metrics)
+
+    def _calculate_relevance(self, text: str) -> float:
+        text_lower = text.lower()
+        matched_keywords = sum(1 for word in self.buzzwords if word in text_lower)
+        return matched_keywords / len(self.buzzwords)
+
+
+# 6. Configuration Management
+class ConfigManager:
+    def __init__(self, config_path: str):
+        self.config_path = config_path
+        self.config = self.load_config()
+
+    def load_config(self):
+        with open(self.config_path, 'r') as f:
+            return yaml.safe_load(f)
+
+    def update_config(self, new_config: dict):
+        self.config.update(new_config)
+        with open(self.config_path, 'w') as f:
+            yaml.dump(self.config, f)
+
+
+# 7. Logging Enhancement
+class EnhancedLogger:
+    def __init__(self, log_path: str):
+        self.logger = logging.getLogger('twitter_bot')
+        self.logger.setLevel(logging.INFO)
+
+        # File handler
+        fh = logging.FileHandler(log_path)
+        fh.setFormatter(logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        ))
+        self.logger.addHandler(fh)
+
+        # Performance monitoring
+        self.metrics = defaultdict(lambda: {
+            'count': 0,
+            'total_time': 0,
+            'errors': 0
+        })
+
+    def log_operation(self, operation_name: str):
+        def decorator(func):
+            @wraps(func)
+            def wrapper(*args, **kwargs):
+                start_time = time.time()
+                try:
+                    result = func(*args, **kwargs)
+                    self.metrics[operation_name]['count'] += 1
+                    self.metrics[operation_name]['total_time'] += time.time() - start_time
+                    return result
+                except Exception as e:
+                    self.metrics[operation_name]['errors'] += 1
+                    self.logger.error(f"Error in {operation_name}: {str(e)}")
+                    raise
+
+            return wrapper
+
+        return decorator
+
+
+# Example usage of the improved components:
+def main():
+    config_manager = ConfigManager('config.yaml')
+    logger = EnhancedLogger('twitter_bot.log')
+
+    # Initialize components with enhanced features
+    schedule_manager = PersistentScheduleManager('schedules.json')
+    content_generator = EnhancedContentGenerator(personality, llm)
+    tweet_engager = EnhancedTweetEngager(
+        personality,
+        content_generator,
+        RateLimitedClient(tweepy_client),
+        []
+    )
+
+    # Load custom templates
+    content_generator.load_templates('templates/')
+
+    # Start the bot with improved monitoring
+    @logger.log_operation('main_loop')
+    def run_bot():
+        while True:
+            tweet_engager.engage_with_tweets()
+            schedule_manager.process_due_posts()
+            time.sleep(config_manager.config['check_interval'])
